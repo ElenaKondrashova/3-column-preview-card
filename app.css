@@ -156,7 +156,7 @@ body {
     text-align: left;
     width: 100%;
     max-width: 960px;
-    margin: 100px 25px;
+    /* margin: 100px 25px; */
 }
 
 .preview-panel {
@@ -261,7 +261,7 @@ body {
 
 .attribution {
     width: auto;
-    margin: 10px;
+    margin: 5px;
     text-align: center;
     font-style: italic;
     font-size: 11px;
